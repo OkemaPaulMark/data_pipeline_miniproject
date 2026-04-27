@@ -1,0 +1,8 @@
+pandas
+numpy<2
+matplotlib
+seaborn
+jupyter
+ipykernel
+python-dotenv
+streamlit

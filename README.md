@@ -205,8 +205,6 @@ The dashboard includes:
 ### Dashboard — Top Countries & Abstract Lengths
 ![Dashboard 3](screenshots/3.png)
 
-### Console Report
 ![Console Report](screenshots/4.png)
 
-### Notebook Visualizations
 ![Notebook](screenshots/5.png)
